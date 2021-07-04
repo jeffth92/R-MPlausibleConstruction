@@ -1,0 +1,7 @@
+C:\Users\jefft\source\repos\RandM 1.0\bin\Debug\RandM 1.0.exe.config
+C:\Users\jefft\source\repos\RandM 1.0\bin\Debug\RandM 1.0.exe
+C:\Users\jefft\source\repos\RandM 1.0\bin\Debug\RandM 1.0.pdb
+C:\Users\jefft\source\repos\RandM 1.0\obj\Debug\RandM 1.0.csproj.AssemblyReference.cache
+C:\Users\jefft\source\repos\RandM 1.0\obj\Debug\RandM 1.0.csproj.CoreCompileInputs.cache
+C:\Users\jefft\source\repos\RandM 1.0\obj\Debug\RandM 1.0.exe
+C:\Users\jefft\source\repos\RandM 1.0\obj\Debug\RandM 1.0.pdb
